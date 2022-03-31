@@ -2,7 +2,7 @@
 
 Wazuh installer for Ubuntu, Debian, CentOS, RHEL and OpenSUSE.
 
-This script lets you set up your own Waazuh server in a couple of minutes, 
+This script lets you set up your own Wazuh server in a couple of minutes, 
 using your desired parameters. It is designed to be as user-friendly as 
 possible, requiring minimum experience.
 
